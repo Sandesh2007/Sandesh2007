@@ -22,7 +22,7 @@ In my enchanted toolkit:
     IDEs: Vs code
     Projects: Magical creations in the making!
 
-🌈 Join Me in the Magic Circle
+-v- Join Me in the Magic Circle
 
     🧙‍♀️ Seeking fellow wizards and wise mentors for a shared quest in the coding cosmos.
     📚 Gathering magical scrolls (resources) to deepen the craft.
