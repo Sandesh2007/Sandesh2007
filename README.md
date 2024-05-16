@@ -12,7 +12,6 @@ In my enchanted toolkit:
 
 🌐 Connect through the Ether
 
-    📧 Drop me a parchment at sandeshgojo@gmail.com
     🦉 Get in touch with me on facebook : San Desh
     
 
