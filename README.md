@@ -1,8 +1,6 @@
 🌟 Namaste! I'm Sandesh sharma , a Coding Voyager from the Land of Nepal 🏔️🇳🇵.
 
-Greetings, friends! I'm a hearted 12th-grade student.
-
-I'm 17 and the only thing i would do without hesitation is to code.
+I'm 17 and i am in 12th-grade, the only thing i would do without hesitation is to code.
 
 
 🛠️ Tools of the Craft
