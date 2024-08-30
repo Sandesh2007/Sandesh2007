@@ -1,13 +1,16 @@
-🌟 Namaste! I'm Sandesh sharma , a Coding Voyager from the Mystical Land of Nepal 🏔️🇳🇵
+🌟 Namaste! I'm Sandesh sharma , a Coding Voyager from the Land of Nepal 🏔️🇳🇵.
 
-Greetings, fellow explorers of the digital realm! I'm a spirited 11th-grade student.
+Greetings, friends! I'm a hearted 12th-grade student.
+
+I'm 17 and the only thing i would do without hesitation is to code.
+
 
 🛠️ Tools of the Craft
 
-In my enchanted toolkit:
+In my tools :
 
     
-    IDEs: Vs code
+    IDEs: Android studio, Vs code.
     
 
 🌐 Connect through the Ether
@@ -15,5 +18,7 @@ In my enchanted toolkit:
     🦉 Get in touch with me on facebook : San Desh
     
 
-A heartfelt thank you to the magical coding community for illuminating my path. Together, let's  make the digital world shimmer with brilliance! 
+A heartfelt thank you to the brilliant coding community for illuminating my path. 
+
+My main goal is to provide any help yo the Open source community. 
 
