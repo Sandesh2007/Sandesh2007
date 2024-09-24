@@ -18,5 +18,5 @@ In my tools :
 
 A heartfelt thank you to the brilliant coding community for illuminating my path. 
 
-My main goal is to provide any help yo the Open source community. 
+My main goal is become a part of Open Source development. 
 
