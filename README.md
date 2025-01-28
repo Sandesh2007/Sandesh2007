@@ -1,22 +1,6 @@
-🌟 Namaste! I'm Sandesh sharma , a Coding Voyager from the Land of Nepal 🏔️🇳🇵.
-
-I'm 17 and i am in 12th-grade, the only thing i would do without hesitation is to code.
+Yo 👋 I'm Sandesh Sharma and i like to yoink code from others :)
 
 
-🛠️ Tools of the Craft
+- 👀 I'm interested in contributing to open source projects.
 
-In my tools :
-
-    
-    IDEs: Android studio, Vs code.
-    
-
-🌐 Connect through the Ether
-
-    🦉 Get in touch with me on facebook : San Desh
-    
-
-A heartfelt thank you to the brilliant coding community for illuminating my path. 
-
-My main goal is become a part of Open Source development. 
-
+and I love using Linux :)
